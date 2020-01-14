@@ -1,2 +1,2 @@
 # fid
-README file for funds of interactive design class
+README file for **fundamentals of interactive design class**
