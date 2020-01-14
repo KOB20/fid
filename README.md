@@ -1,2 +1,2 @@
 # fid
-README file for **fundamentals of interactive design class**
+Repo for **fundamentals of interactive design class**
