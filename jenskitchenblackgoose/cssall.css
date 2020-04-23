@@ -1,0 +1,23 @@
+/* latin */
+@font-face {
+  font-family: 'Marko One';
+  font-style: normal;
+  font-weight: 400;
+  
+}
+body {
+                 background: black;
+                 color: #0c4040
+				 }
+ul ul li {
+                 font-size: x-large;
+                 font-decoration: italic 
+				 } 
+dt {
+font-weight: bold;
+}
+  
+h1, h2, blockquote { background: #b8c2a1 
+} 				 
+strong {
+font-style: italic;}
