@@ -7,7 +7,7 @@
 }
 body {
                  background: black;
-                 color: #0c4040
+                 color: #0c6b6b
 				 }
 ul ul li {
                  font-size: x-large;
@@ -17,7 +17,7 @@ dt {
 font-weight: bold;
 }
   
-h1, h2, blockquote { background: #b8c2a1 
+h1, h2, blockquote { background: #95a17a
 } 				 
 strong {
 font-style: italic;}
